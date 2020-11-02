@@ -5,8 +5,8 @@
 
 ## Data : Image file (BMP, JPG, PNG)
 ## Project Overview
-In this project, you will apply supervised learning techniques and an analytical mind to accurately read the alphabets from images created in any format. You will first extract the image data into numeric format. Next, you will apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. You will then evaluate several supervised learners of your choice on the data, and consider which is best suited for the solution. Afterwards, you will optimize the model by adding new features and that fit the model you've selected. Finally, you will explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
-predicted selling price to your statistics.
+In this project, we have applied supervised learning techniques to accurately read the alphabets from images in any format. We first extract the image data into numeric format. Next, we apply a series of transformations and preprocessing techniques to manipulate the data into a workable format.Finally, RandomForestClassifer predicts the text represented in the image file. 
+
 
 Steps:
 - We capture a text using mobile camera.
@@ -18,7 +18,7 @@ Steps:
 
 This project uses the following software and Python libraries:
 
-- [Python 2.7](https://www.python.org/download/releases/2.7/)
+- [Python 3.1](https://www.python.org/download/releases/3.1/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
