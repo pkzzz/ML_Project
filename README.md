@@ -16,6 +16,7 @@ Steps:
 - The code resizes the image to (100 X 30) and converts that image pixels in numeric data.
 - Next, code runs series of tranformations and preprocessing on the data.
 - Finally, we have data containing 3002 features associated to each record.
+- 2999 features are captured from image rest 3 features( curvness, linearity, symmetry) are predicted from other embedded models.
 - The ml.py file outputs the result containing the predicted text.
 
 This project uses the following software and Python libraries:
