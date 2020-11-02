@@ -3,7 +3,7 @@
 ## Project: Predicting text from images
 
 
-## Data : Image file (BMP)
+## Data : Image file (BMP, JPG, PNG)
 ## Project Overview
 In this project, you will apply supervised learning techniques and an analytical mind to accurately read the alphabets from images created in any format. You will first extract the image data into numeric format. Next, you will apply a series of transformations and preprocessing techniques to manipulate the data into a workable format. You will then evaluate several supervised learners of your choice on the data, and consider which is best suited for the solution. Afterwards, you will optimize the model by adding new features and that fit the model you've selected. Finally, you will explore the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
 predicted selling price to your statistics.
