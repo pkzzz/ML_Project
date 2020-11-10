@@ -6,9 +6,8 @@
 ## Data : Image file (BMP, JPG, PNG)
 ## Project Overview
 In this project, we have applied supervised learning techniques to accurately read the alphabets from images in any format. We first extract the image data into numeric format. Next, we apply a series of transformations and preprocessing techniques to manipulate the data into a workable format.Finally, RandomForestClassifer predicts the text represented in the image file. 
-## input: 
-![ML_Project](final_out.PNG)
-    output: ^^^^
+## input >> 
+![ML_Project](final_out.PNG) << output
 
 Steps:
 - We capture a text using mobile camera.
